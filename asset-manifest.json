@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/mayanksetia/static/css/main.de90c84d.css",
+    "main.js": "/mayanksetia/static/js/main.6e351175.js",
+    "static/css/307.20d4b16c.chunk.css": "/mayanksetia/static/css/307.20d4b16c.chunk.css",
+    "static/js/307.09303055.chunk.js": "/mayanksetia/static/js/307.09303055.chunk.js",
+    "static/css/144.4c5e0e17.chunk.css": "/mayanksetia/static/css/144.4c5e0e17.chunk.css",
+    "static/js/144.29b2db1a.chunk.js": "/mayanksetia/static/js/144.29b2db1a.chunk.js",
+    "static/media/moviecard-card.png": "/mayanksetia/static/media/moviecard-card.78954b0ab4e0f717f3be.png",
+    "static/media/setia.png": "/mayanksetia/static/media/setia.aa5cb974c32090a3ade4.png",
+    "static/media/cartdemo-card.png": "/mayanksetia/static/media/cartdemo-card.e215e50bac6836560af1.png",
+    "static/media/quiz-card.png": "/mayanksetia/static/media/quiz-card.7dfcb87236807f9165b4.png",
+    "static/media/dojo-card.png": "/mayanksetia/static/media/dojo-card.0f02173e564c99b53523.png",
+    "static/media/grid.png": "/mayanksetia/static/media/grid.e8fe42e972194fdda7fa.png",
+    "index.html": "/mayanksetia/index.html",
+    "main.de90c84d.css.map": "/mayanksetia/static/css/main.de90c84d.css.map",
+    "main.6e351175.js.map": "/mayanksetia/static/js/main.6e351175.js.map",
+    "307.20d4b16c.chunk.css.map": "/mayanksetia/static/css/307.20d4b16c.chunk.css.map",
+    "307.09303055.chunk.js.map": "/mayanksetia/static/js/307.09303055.chunk.js.map",
+    "144.4c5e0e17.chunk.css.map": "/mayanksetia/static/css/144.4c5e0e17.chunk.css.map",
+    "144.29b2db1a.chunk.js.map": "/mayanksetia/static/js/144.29b2db1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de90c84d.css",
+    "static/js/main.6e351175.js"
+  ]
+}
